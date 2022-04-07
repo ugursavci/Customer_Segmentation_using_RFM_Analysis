@@ -1,6 +1,8 @@
 
 # Customer Segmentation using RFM Analysis
 
+<img src='2.jpg'>
+
 In this project We segmented our customers using RFM Analysis.
 
 RFM stands for Recency,Frequency and Monetary
